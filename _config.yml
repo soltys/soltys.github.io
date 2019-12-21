@@ -1,1 +1,15 @@
+name: Soltys
+title: Soltys
+url: "https://soltys.github.io"
+markdown: kramdown
 theme: jekyll-theme-midnight
+github: [metadata]
+
+repository: soltys/soltys.github.io
+
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
